@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruffle Embed</title>
+    <style>*{border:0;padding:0;margin:0;background-color:black;overflow: hidden;}</style>
+</head>
+<body style="background-color: black;">
+    <!-- Ruffle JS Script -->
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+
+    <div>
+        <embed src="./btd4.swf" style="width: 100vw; height: 100vh;">
+    </div>
+
+    <script>
+        // Load Ruffle when the page loads
+        window.RufflePlayer = window.RufflePlayer || {};
+        window.RufflePlayer.config = {
+            autoplay: "on",
+            allowfullscreen: "true",
+            unmuteoverlay: "hidden"
+        };
+        const ruffle = window.RufflePlayer.newest();
+        const container = document.querySelector('embed');
+        ruffle.createPlayer(container);
+    </script>
+</body>
+</html>

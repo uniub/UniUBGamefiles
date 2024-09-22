@@ -1,0 +1,25 @@
+<html><head>
+    <style>
+        *{margin: 0;padding: 0;border: 0;background-color: black;overflow: hidden;}
+    </style>
+    <body dir="ltr" onmousedown="_ct.click(event);">
+    <center>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.RufflePlayer.config = {
+    "autoplay": "off",letterbox: "on","splashScreen": true,"unmuteOverlay": "hidden","quality": "high" };
+    window.addEventListener("load", (event) => {
+    const ruffle = window.RufflePlayer.newest();
+    const player = ruffle.createPlayer();
+    const container = document.getElementById("container");
+    container.appendChild(player);
+    player.load("https://cdn.jsdelivr.net/gh/sasa24s/Sphere-compile@95d1d98dc38a920d02e6bbcf61620501b2bacfcb/tables/pvz_9_15.swf");
+    player.style.width = "100vw";
+    player.style.height = "100vh";
+    });
+    </script>
+    <div id="container"></div>
+    </center>
+ </body>
+</html>
