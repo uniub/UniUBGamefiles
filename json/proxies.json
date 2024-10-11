@@ -1,0 +1,62 @@
+{
+    "emerald": {
+        "srcURL": "",
+        "imgURL": "emerald.png",
+        "pageURL": "/pages/ub.html?type=emerald",
+        "name": "Emerald"
+    },
+    "shuttle": {
+        "srcURL": "",
+        "imgURL": "shuttle.png",
+        "pageURL": "/pages/ub.html?type=shuttle",
+        "name": "Shuttle"
+    },
+    "rammerhead": {
+        "srcURL": "",
+        "imgURL": "rammerhead.png",
+        "pageURL": "/pages/ub.html?type=rh",
+        "name": "Rammerhead"
+    },
+    "interstellar": {
+        "srcURL": "",
+        "imgURL": "interstellar.png",
+        "pageURL": "/pages/ub.html?type=interstellar",
+        "name": "Interstellar"
+    },
+    "sodium": {
+        "srcURL": "",
+        "imgURL": "sodium.png",
+        "pageURL": "/pages/ub.html?type=sodium",
+        "name": "Sodium"
+    },
+    "doge": {
+        "srcURL": "",
+        "imgURL": "doge.png",
+        "pageURL": "/pages/ub.html?type=doge",
+        "name": "Doge V4"
+    },
+    "tinfoil": {
+        "srcURL": "",
+        "imgURL": "foil.png",
+        "pageURL": "/pages/ub.html?type=tinfoil",
+        "name": "Tinfoil"
+    },
+    "shadow": {
+        "srcURL": "",
+        "imgURL": "shadow.png",
+        "pageURL": "/pages/ub.html?type=shadow",
+        "name": "Shadow"
+    },
+    "utopia": {
+        "srcURL": "",
+        "imgURL": "utopia.png",
+        "pageURL": "/pages/ub.html?type=utopia",
+        "name": "Utopia"
+    },
+    "misc": {
+        "srcURL": "",
+        "imgURL": "blank.png",
+        "pageURL": "/pages/ub.html?type=stamisctic",
+        "name": "Misc"
+    }
+}

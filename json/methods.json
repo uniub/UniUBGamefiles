@@ -1,0 +1,50 @@
+{
+    "tempdisablesecurly": {
+        "pageURL": "/pages/method.html?method=disablesecurly",
+        "name": "Temp Disable Securly"
+    },
+    "pdfopunblocker": {
+        "pageURL": "/pages/method.html?method=pdfopunblocker",
+        "name": "PDF OP Unblocker"
+    },
+    "disablegoguardian": {
+        "pageURL": "/pages/method.html?method=disablegoguardian",
+        "name": "Temp Disable Goguard"
+    },
+    "goguardianabblocker": {
+        "pageURL": "/pages/method.html?method=goguardianabblocker",
+        "name": "Goguard AB Blocker"
+    },
+    "kioskv3": {
+        "pageURL": "/pages/method.html?method=kioskv3",
+        "name": "Kiosk V3"
+    },
+    "kioskv4": {
+        "pageURL": "/pages/method.html?method=kioskv4",
+        "name": "Kiosk V4"
+    },
+    "goguardianytbypass": {
+        "pageURL": "/pages/method.html?method=goguardianytbypass",
+        "name": "Goguard YT Bypass"
+    },
+    "goguardianembedbypass": {
+        "pageURL": "/pages/method.html?method=goguardianembedbypass",
+        "name": "Goguard Embed Bypass"
+    },
+    "andpdfv2": {
+        "pageURL": "/pages/method.html?method=andpdfv2",
+        "name": "@PDF v2"
+    },
+    "codns": {
+        "pageURL": "/pages/method.html?method=codns",
+        "name": "not CAuDms"
+    },
+    "rigtools": {
+        "pageURL": "/pages/method.html?method=rigtools",
+        "name": "RigTools [ADV]"
+    },
+    "mitappinventor": {
+        "pageURL": "/pages/method.html?method=mitappinventor",
+        "name": "Mit AI2 exploit"
+    }
+}
