@@ -107,6 +107,12 @@
         "pageURL": "/pages/game.html?game=slope",
         "name": "Slope"
     },
+    "slope-2": {
+        "srcURL": "/gamefiles/3kh0/slope-2/index.html",
+        "imgURL": "slope-2.png",
+        "pageURL": "/pages/game.html?game=slope-2",
+        "name": "Slope 2"
+    },
     "cookie-clicker": {
         "srcURL": "/gamefiles/cookie-clicker/index.html",
         "imgURL": "cookieclicker.png",
@@ -593,6 +599,30 @@
         "pageURL": "/pages/game.html?game=vex3",
         "name": "Vex 3"
     },
+    "vex4": {
+        "srcURL": "/gamefiles/3kh0/vex4/index.html",
+        "imgURL": "vex4.png",
+        "pageURL": "/pages/game.html?game=vex4",
+        "name": "Vex 4"
+    },
+    "vex5": {
+        "srcURL": "/gamefiles/3kh0/vex5/index.html",
+        "imgURL": "vex5.png",
+        "pageURL": "/pages/game.html?game=vex5",
+        "name": "Vex 5"
+    },
+    "vex6": {
+        "srcURL": "/gamefiles/3kh0/vex6/index.html",
+        "imgURL": "vex6.png",
+        "pageURL": "/pages/game.html?game=vex6",
+        "name": "Vex 6"
+    },
+    "vex7": {
+        "srcURL": "/gamefiles/3kh0/vex7/index.html",
+        "imgURL": "vex7.png",
+        "pageURL": "/pages/game.html?game=vex7",
+        "name": "Vex 7"
+    },
     "fancypantsadventures1": {
         "srcURL": "/gamefiles/fancypantsadventures1/index.html",
         "imgURL": "fancypantsadventures1.png",
@@ -622,5 +652,203 @@
         "imgURL": "earntodie2.png",
         "pageURL": "/pages/game.html?game=earntodie2",
         "name": "EtD 2"
+    },
+    "10-minutes-till-dawn": {
+        "srcURL": "/gamefiles/3kh0/10-minutes-till-dawn/index.html",
+        "imgURL": "10-minutes-till-dawn.png",
+        "pageURL": "/pages/game.html?game=10-minutes-till-dawn",
+        "name": "10m Til Dawn"
+    },
+    "csgo-clicker": {
+        "srcURL": "/gamefiles/3kh0/csgo-clicker/index.html",
+        "imgURL": "csgo-clicker.png",
+        "pageURL": "/pages/game.html?game=csgo-clicker",
+        "name": "CSGO Clicker"
+    },
+    "doomori": {
+        "srcURL": "/gamefiles/3kh0/doomori/index.html",
+        "imgURL": "doomori.png",
+        "pageURL": "/pages/game.html?game=doomori",
+        "name": "Doomori"
+    },
+    "idle-breakout": {
+        "srcURL": "/gamefiles/3kh0/idle-breakout/index.html",
+        "imgURL": "idle-breakout.png",
+        "pageURL": "/pages/game.html?game=idle-breakout",
+        "name": "Idle breakout"
+    },
+    "minesweeper": {
+        "srcURL": "/gamefiles/3kh0/minesweeper/index.html",
+        "imgURL": "minesweeper.png",
+        "pageURL": "/pages/game.html?game=minesweeper",
+        "name": "Minesweeper"
+    },
+    "ovo": {
+        "srcURL": "/gamefiles/3kh0/ovo/index.html",
+        "imgURL": "ovo.png",
+        "pageURL": "/pages/game.html?game=ovo",
+        "name": "OvO"
+    },
+    "pandemic2": {
+        "srcURL": "/gamefiles/3kh0/pandemic2/index.html",
+        "imgURL": "pandemic2.png",
+        "pageURL": "/pages/game.html?game=pandemic2",
+        "name": "Pandemic 2"
+    },
+    "particle-clicker": {
+        "srcURL": "/gamefiles/3kh0/particle-clicker/index.html",
+        "imgURL": "particle-clicker.png",
+        "pageURL": "/pages/game.html?game=particle-clicker",
+        "name": "Particle Clicker"
+    },
+    "polybranch": {
+        "srcURL": "/gamefiles/3kh0/polybranch/index.html",
+        "imgURL": "polybranch.png",
+        "pageURL": "/pages/game.html?game=polybranch",
+        "name": "Polybranch"
+    },
+    "portalflash": {
+        "srcURL": "/gamefiles/3kh0/portalflash/index.html",
+        "imgURL": "portalflash.png",
+        "pageURL": "/pages/game.html?game=portalflash",
+        "name": "Portal flash"
+    },
+    "rooftop-snipers": {
+        "srcURL": "/gamefiles/3kh0/rooftop-snipers/index.html",
+        "imgURL": "rooftop-snipers.png",
+        "pageURL": "/pages/game.html?game=rooftop-snipers",
+        "name": "Rooftop Snipers"
+    },
+    "snowbattle": {
+        "srcURL": "/gamefiles/3kh0/snowbattle/index.html",
+        "imgURL": "snowbattle.png",
+        "pageURL": "/pages/game.html?game=snowbattle",
+        "name": "Snowbattle.io"
+    },
+    "soccer-random": {
+        "srcURL": "/gamefiles/3kh0/soccer-random/index.html",
+        "imgURL": "soccer-random.png",
+        "pageURL": "/pages/game.html?game=soccer-random",
+        "name": "Soccer Random"
+    },
+    "solitare": {
+        "srcURL": "/gamefiles/3kh0/solitare/index.html",
+        "imgURL": "solitare.png",
+        "pageURL": "/pages/game.html?game=solitare",
+        "name": "Solitare"
+    },
+    "soundboard": {
+        "srcURL": "/gamefiles/3kh0/soundboard/index.html",
+        "imgURL": "soundboard.png",
+        "pageURL": "/pages/game.html?game=soundboard",
+        "name": "Soundboard"
+    },
+    "spelunky": {
+        "srcURL": "/gamefiles/3kh0/spelunky/index.html",
+        "imgURL": "spelunky.png",
+        "pageURL": "/pages/game.html?game=spelunky",
+        "name": "Spelunky"
+    },
+    "stickman-hook": {
+        "srcURL": "/gamefiles/3kh0/stickman-hook/index.html",
+        "imgURL": "stickman-hook.png",
+        "pageURL": "/pages/game.html?game=stickman-hook",
+        "name": "Stickman Hook"
+    },
+    "subway-surfers": {
+        "srcURL": "/gamefiles/3kh0/subway-surfers/index.html",
+        "imgURL": "subway-surfers.png",
+        "pageURL": "/pages/game.html?game=subway-surfers",
+        "name": "Subway surfers"
+    },
+    "superfowlist": {
+        "srcURL": "/gamefiles/3kh0/superfowlist/index.html",
+        "imgURL": "superfowlist.png",
+        "pageURL": "/pages/game.html?game=superfowlist",
+        "name": "Superfowlist"
+    },
+    "synesthesia": {
+        "srcURL": "/gamefiles/3kh0/synesthesia/index.html",
+        "imgURL": "synesthesia.png",
+        "pageURL": "/pages/game.html?game=synesthesia",
+        "name": "Synesthesia"
+    },
+    "the-final-earth": {
+        "srcURL": "/gamefiles/3kh0/the-final-earth/index.html",
+        "imgURL": "the-final-earth.png",
+        "pageURL": "/pages/game.html?game=the-final-earth",
+        "name": "Final Earth"
+    },
+    "the-final-earth-2": {
+        "srcURL": "/gamefiles/3kh0/the-final-earth-2/index.html",
+        "imgURL": "the-final-earth-2.png",
+        "pageURL": "/pages/game.html?game=the-final-earth-2",
+        "name": "Final Earth 2"
+    },
+    "there-is-no-game": {
+        "srcURL": "/gamefiles/3kh0/there-is-no-game/index.html",
+        "imgURL": "there-is-no-game.png",
+        "pageURL": "/pages/game.html?game=there-is-no-game",
+        "name": "There is no game"
+    },
+    "thisistheonlylevel": {
+        "srcURL": "/gamefiles/3kh0/thisistheonlylevel/index.html",
+        "imgURL": "thisistheonlylevel.png",
+        "pageURL": "/pages/game.html?game=thisistheonlylevel",
+        "name": "TITOL"
+    },
+    "tiny-fishing": {
+        "srcURL": "/gamefiles/3kh0/tiny-fishing/index.html",
+        "imgURL": "tiny-fishing.png",
+        "pageURL": "/pages/game.html?game=tiny-fishing",
+        "name": "Tiny fishing"
+    },
+    "tosstheturtle": {
+        "srcURL": "/gamefiles/3kh0/tosstheturtle/index.html",
+        "imgURL": "tosstheturtle.png",
+        "pageURL": "/pages/game.html?game=tosstheturtle",
+        "name": "Toss the turtle"
+    },
+    "trimps": {
+        "srcURL": "/gamefiles/3kh0/trimps/index.html",
+        "imgURL": "trimps.png",
+        "pageURL": "/pages/game.html?game=trimps",
+        "name": "Trimps"
+    },
+    "tunnel-rush": {
+        "srcURL": "/gamefiles/3kh0/tunnel-rush/index.html",
+        "imgURL": "tunnel-rush.png",
+        "pageURL": "/pages/game.html?game=tunnel-rush",
+        "name": "Tunnel Rush"
+    },
+    "twitch-tetris": {
+        "srcURL": "/gamefiles/3kh0/twitch-tetris/index.html",
+        "imgURL": "twitch-tetris.png",
+        "pageURL": "/pages/game.html?game=twitch-tetris",
+        "name": "Twitch Tetris"
+    },
+    "unfairmario": {
+        "srcURL": "/gamefiles/3kh0/unfairmario/index.html",
+        "imgURL": "unfairmario.png",
+        "pageURL": "/pages/game.html?game=unfairmario",
+        "name": "Unfair Mario"
+    },
+    "wallsmash": {
+        "srcURL": "/gamefiles/3kh0/wallsmash/index.html",
+        "imgURL": "wallsmash.png",
+        "pageURL": "/pages/game.html?game=wallsmash",
+        "name": "Wall Smash"
+    },
+    "weavesilk": {
+        "srcURL": "/gamefiles/3kh0/weavesilk/index.html",
+        "imgURL": "weavesilk.png",
+        "pageURL": "/pages/game.html?game=weavesilk",
+        "name": "Weave Silk"
+    },
+    "webgl-fluid-simulation": {
+        "srcURL": "/gamefiles/3kh0/webgl-fluid-simulation/index.html",
+        "imgURL": "webgl-fluid-simulation.png",
+        "pageURL": "/pages/game.html?game=webgl-fluid-simulation",
+        "name": "Fluid Sim"
     }
 }
