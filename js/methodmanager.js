@@ -40,6 +40,9 @@ if (currentmethod == "rigtools") {
 if (currentmethod == "mitappinventor"){
     loadtext("Mit AI2 Exploit", "This is a pretty advanced exploit, not as advanced as rigtools but can be pretty hard to pull off. /n Requirements /n code.appinventor.mit.edu is unblocked (or you have another machine to temporarily use) /n The app 'MIT AI2 Companion' is allowed on the playstore. /n Step one, download the custom built app inventor file /n !a!!d!/methods/mitappinventor/mitappinventor.aia!a!Download /n Go to the url listed in the requirements, and click 'Continue Without An Account' Click through the popups. /n Now on the top navbar, click 'Projects' Then import a .aia 'From your computer' /n Once imported, click the 'Connect' option and select either 'Chromebook' or 'AI Companion', if your using Chromebook it should automatically open, if your using AI Companion, open the app you installed in the requirements, and use the code provided.")
 }
+if (currentmethod == "exthang3r"){
+    loadtext("ExtHang3r", "A very simple and handy exploit. /n Follow the instructions inside the box below. /n If the exploit stops working (It usually only lasts around 5-15 minutes) just redo it. /n !if!/methods/exthang3r.html!if!")
+}
 
 function loadtext(title, text){ //Don't mind the garbo code, it works 😎
     text = text.split(" /n ")

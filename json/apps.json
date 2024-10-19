@@ -1,8 +1,74 @@
 {
     "google": {
-        "srcURL": "/classwork/hvtrs8%2F-wuw%2Cgmoelg.aoo%2F%3Dgus%5Drf%3Dqsn",
+        "srcURL": "/uv/service/hvtrs8%2F-wuw%2Cgmoelg.aoo%2F%3Dgus%5Drf%3Dqsn",
         "imgURL": "google.png",
         "pageURL": "/pages/app.html?app=google",
         "name": "Google"
+    },
+    "gfn": {
+        "srcURL": "/uv/service/hvtrs8%2F-pna%7B.eedopcgnmw%2Ccmm-mcln%2F",
+        "imgURL": "geforcenow.png",
+        "pageURL": "/pages/app.html?app=gfn",
+        "name": "Geforce Now"
+    },
+    "tiktok": {
+        "srcURL": "/uv/service/hvtrs8%2F-wuw%2Ctkkvoi.aoo%2Fgxrlmrg",
+        "imgURL": "tiktok.png",
+        "pageURL": "/pages/app.html?app=tiktok",
+        "name": "Tik Tok"
+    },
+    "vscode": {
+        "srcURL": "/uv/service/hvtrs8%2F-vqcmdg.fet%2F",
+        "imgURL": "vscode.png",
+        "pageURL": "/pages/app.html?app=vscode",
+        "name": "VS Code"
+    },
+    "soundcloud": {
+        "srcURL": "/uv/service/hvtrs8%2F-smuldalmuf.aoo%2F",
+        "imgURL": "soundcloud.png",
+        "pageURL": "/pages/app.html?app=soundcloud",
+        "name": "Soundcloud"
+    },
+    "invidious": {
+        "srcURL": "/uv/service/hvtrs8%2F-ilv%2Cncdgkm.lev%2Fdegd-pmpwlcr",
+        "imgURL": "invidious.png",
+        "pageURL": "/pages/app.html?app=invidious",
+        "name": "Invidious (YT)"
+    },
+    "spotify": {
+        "srcURL": "/uv/service/hvtrs8%2F-aacmultq.qpmtkf%7B.aoo%2Fgn-lmgkn",
+        "imgURL": "spotify.png",
+        "pageURL": "/pages/app.html?app=spotify",
+        "name": "Spotify"
+    },
+    "xbox": {
+        "srcURL": "/uv/service/hvtrs8%2F-wuw%2Cx%60oz.aoo%2Fgn%2FUQ%2Frlcy",
+        "imgURL": "xbox.png",
+        "pageURL": "/pages/app.html?app=xbox",
+        "name": "XBox CG"
+    },
+    "youtube": {
+        "srcURL": "/uv/service/hvtrs8%2F-wuw%2Cymuvu%60e%2Ccmm-",
+        "imgURL": "youtube.png",
+        "pageURL": "/pages/app.html?app=youtube",
+        "name": "Youtube"
+    },
+    "freegpt": {
+        "srcURL": "/uv/service/hvtrs8%2F-cjavgrtdrge%2Cak%2Fahct-",
+        "imgURL": "freegpt.png",
+        "pageURL": "/pages/app.html?app=freegpt",
+        "name": "FreeGPT"
+    },
+    "reddit": {
+        "srcURL": "/uv/service/hvtrs8%2F-wuw%2Crgdfiv.aoo%2F",
+        "imgURL": "reddit.png",
+        "pageURL": "/pages/app.html?app=reddit",
+        "name": "Reddit"
+    },
+    "yesmovies": {
+        "srcURL": "/uv/service/hvtrs8%2F-wu.%7Beqmmvkeq.cg-ygs%2Chvmn",
+        "imgURL": "yesmovies.png",
+        "pageURL": "/pages/app.html?app=yesmovies",
+        "name": "Yes! Movies"
     }
 }

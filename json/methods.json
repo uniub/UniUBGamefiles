@@ -46,5 +46,9 @@
     "mitappinventor": {
         "pageURL": "/pages/method.html?method=mitappinventor",
         "name": "Mit AI2 exploit"
+    },
+    "exthang3r": {
+        "pageURL": "/pages/method.html?method=exthang3r",
+        "name": "Ext Hang3r"
     }
 }
