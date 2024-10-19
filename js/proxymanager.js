@@ -4,7 +4,6 @@ const fullscreenButton = document.getElementById("fullscreen");
 var baseurl = "https://" + ("%40".repeat(150)) + "@"
 let id
 let type
-alert(window.location)
 
 const rammerheadurls = [
     "https://sparkledog.happymosaic.ru/",
@@ -448,7 +447,6 @@ function redo(){
 
 type = params.get('type');
 id = params.get('id');
-alert("Dom content loaded." + id + type)
 fullscreenButton.addEventListener("click", fullscreen);
 
 function fullscreen() {

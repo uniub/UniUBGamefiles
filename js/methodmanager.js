@@ -59,7 +59,7 @@ function loadtext(title, text){ //Don't mind the garbo code, it works 😎
         } else if(text[i].slice(0,4) === "!if!"){//<iframe>
             let src = text[i].split('!if!')[1]
             let elem = document.createElement("embed")
-            elem.src = src
+            elem.src = filesURL + src
             elem.setAttribute("class", "padding")
             games.appendChild(elem)
         }else{//<p>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Tab</title>
+</head>
+<body>
+    <h2>
+        Goguard yt bypass
+    </h2>
+    <p>Made by Jobi#8313</p>
+    <p>This should be pretty simple, just paste the <b>full</b> url into the box,<br> then press one of the two buttons (ONLY WORKS ON YOUTUBE)</p>
+    <p>Btw this is kinda stupid how it works, but goguardian (at least 95% of their versions) just... don't check iframes.</p>
+    <input id="url" placeholder="https://youtube.com/watch?...">
+    <br><br>
+    <button onclick="aboutblank(getYouTubeEmbedUrl(document.getElementById('url').value))">
+        Click to open in a new tab
+    </button>
+    <br><br><br>
+    <button onclick="document.getElementById('iframe').src = getYouTubeEmbedUrl(document.getElementById('url').value)">
+        Click to open in iframe here
+    </button>
+    <br><br>
+    <button onclick="document.getElementById('iframe').requestFullscreen()">
+        Fullscreen the iframe
+    </button>
+    <br><br>
+    <iframe id="iframe" allowfullscreen="true" width="750px" height="500px"></iframe>
+</body>
+<script>
+function getYouTubeEmbedUrl(videoUrl) {
+    const regex = /(?:https?:\/\/)?(?:www\.)?youtube\.com\/watch\?v=([a-zA-Z0-9_-]{11})/;
+    const match = videoUrl.match(regex);
+    if (match) {
+        const videoId = match[1];
+        return `https://www.youtube.com/embed/${videoId}`;
+    } else {
+        return null;
+    }
+}
+
+function aboutblank(embed){
+    url = embed
+    win = window.open();
+    win.document.body.style.margin = '0';
+    win.document.body.style.height = '100vh';
+    var iframe = win.document.createElement('iframe');
+    iframe.style.border = 'none';
+    iframe.style.width = '100%';
+    iframe.style.height = '100%';
+    iframe.style.margin = '0';
+    iframe.src = url;
+    win.document.body.appendChild(iframe);
+}
+</script>
+</html>

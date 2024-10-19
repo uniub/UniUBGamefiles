@@ -1,4 +1,10 @@
 {
+    "win11": {
+        "srcURL": "/appfiles/win11/index.html",
+        "imgURL": "win11.png",
+        "pageURL": "/pages/game.html?game=win11",
+        "name": "Windows 11"
+    },
     "2048": {
         "srcURL": "/gamefiles/2048/index.html",
         "imgURL": "2048.png",
