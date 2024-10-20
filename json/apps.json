@@ -41,6 +41,12 @@
         "pageURL": "/pages/app.html?app=vscode",
         "name": "VS Code"
     },
+    "chess": {
+        "srcURL": "/uv/service/hvtrs8%2F-wuw%2Ccjeqs%2Ccmm-",
+        "imgURL": "chess.png",
+        "pageURL": "/pages/app.html?app=chess",
+        "name": "Chess"
+    },
     "soundcloud": {
         "srcURL": "/uv/service/hvtrs8%2F-smuldalmuf.aoo%2F",
         "imgURL": "soundcloud.png",
