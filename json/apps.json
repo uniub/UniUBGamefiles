@@ -95,11 +95,11 @@
         "pageURL": "/pages/app.html?app=reddit",
         "name": "Reddit"
     },
-    "yesmovies": {
-        "srcURL": "/uv/service/hvtrs8%2F-wu.%7Beqmmvkeq.cg-ygs%2Chvmn",
-        "imgURL": "yesmovies.png",
-        "pageURL": "/pages/app.html?app=yesmovies",
-        "name": "Yes! Movies"
+    "heartivemovies": {
+        "srcURL": "/uv/service/hvtrs8%2F-hgaptkvg.raeeq.fet%2Footigs-",
+        "imgURL": "movies.png",
+        "pageURL": "/pages/app.html?app=heartivemovies",
+        "name": "Heartive Movies"
     },
     "robloxsite": {
         "srcURL": "/uv/service/hvtrs8%2F-wuw%2Crmbnoz.aoo%2F",
