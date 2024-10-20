@@ -1,4 +1,22 @@
 {
+    "robloxgame": {
+        "srcURL": "/uv/service/hvtrs8%2F-dmcvopawx%2Ccmm-arpq%2Fpo%60lmx%2Fcmrropavimn-514%3B%2Fpo%60lmx%2Chvmn",
+        "imgURL": "roblox.png",
+        "pageURL": "/pages/app.html?app=robloxgame",
+        "name": "Roblox Game"
+    },
+    "stumbleguys": {
+        "srcURL": "/uv/service/hvtrs8%2F-wuw%2Csvuobneeu%7Bs%2Ccmm-pna%7B",
+        "imgURL": "stumbleguys.png",
+        "pageURL": "/pages/app.html?app=stumbleguys",
+        "name": "Stumble Guys"
+    },
+    "nowgg": {
+        "srcURL": "/uv/service/hvtrs8%2F-nmw%2Cge%2F",
+        "imgURL": "nowgg.png",
+        "pageURL": "/pages/app.html?app=nowgg",
+        "name": "Now.gg"
+    },
     "google": {
         "srcURL": "/uv/service/hvtrs8%2F-wuw%2Cgmoelg.aoo%2F%3Dgus%5Drf%3Dqsn",
         "imgURL": "google.png",
@@ -28,6 +46,12 @@
         "imgURL": "soundcloud.png",
         "pageURL": "/pages/app.html?app=soundcloud",
         "name": "Soundcloud"
+    },
+    "characterai": {
+        "srcURL": "/uv/service/hvtrs8%2F-cjapaatgr%2Cak%2F",
+        "imgURL": "characterai.png",
+        "pageURL": "/pages/app.html?app=characterai",
+        "name": "Character.ai"
     },
     "invidious": {
         "srcURL": "/uv/service/hvtrs8%2F-ilv%2Cncdgkm.lev%2Fdegd-pmpwlcr",
@@ -70,5 +94,11 @@
         "imgURL": "yesmovies.png",
         "pageURL": "/pages/app.html?app=yesmovies",
         "name": "Yes! Movies"
+    },
+    "robloxsite": {
+        "srcURL": "/uv/service/hvtrs8%2F-wuw%2Crmbnoz.aoo%2F",
+        "imgURL": "roblox.png",
+        "pageURL": "/pages/app.html?app=robloxsite",
+        "name": "Roblox Site"
     }
 }
